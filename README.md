@@ -54,8 +54,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 
 ## Authors
-* **690064952**
-* **690029129**
+* [Kay Thangan](https://github.com/KayThangan)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
