@@ -55,3 +55,7 @@ Open the text files for each deck & player to see the program's gameplay.
 
 ## Authors
 * [Kay Thangan](https://github.com/KayThangan)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
